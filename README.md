@@ -1,20 +1,20 @@
-📊 Sales Data Analysis & Forecasting
+ Sales Data Analysis & Forecasting
 
 Domain: Retail
 Techniques: Regression, Time Series Analysis
 
-📌 Project Overview
+ Project Overview
 
 This project focuses on analyzing historical retail sales data to identify sales trends, seasonality, and the impact of discounts on revenue. A regression-based model is trained to predict future sales.
 
-📂 Dataset Features
+ Dataset Features
 
 - Date
 - Product Category
 - Discount Percentage
 - Revenue
 
-🔍 Key Tasks Performed
+ Key Tasks Performed
 
 - Monthly sales trend analysis
 - Seasonality visualization
@@ -22,19 +22,19 @@ This project focuses on analyzing historical retail sales data to identify sales
 - Sales prediction using Linear Regression
 - Model evaluation using MAE & RMSE
 
-🛠️ Tools & Technologies
+ Tools & Technologies
 
 - Python
 - Pandas, NumPy
 - Matplotlib
 - Scikit-learn
 
-📈 Model Evaluation
+ Model Evaluation
 
 - MAE (Mean Absolute Error)
 - RMSE (Root Mean Squared Error)
 
-🚀 Conclusion
+ Conclusion
 
 The project successfully captures sales patterns and demonstrates how regression models can be used for sales forecasting in the retail domain.
 
