@@ -40,6 +40,20 @@ The dataset is used to train regression models for accurate sales predictions.
 
 ---
 
+## Project Structure
+
+```bash
+sales-data-analysis-forecasting/
+├── data/
+│   └── sales_data.csv
+├── notebooks/
+│   └── Sales_Data_Analysis_and_Forecasting.ipynb
+├── requirements.txt
+├── README.md
+```
+
+---
+
 ## Tools & Technology Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -86,7 +100,7 @@ The evaluation ensures that the regression model reliably forecasts future sales
 Hassan Ali  
 Aspiring Data Scientist and Machine Learning Engineer  
 
-GitHub: https://github.com/Hassan-Ali786  
+GitHub: https://github.com/hassan-ali786  
 
 ---
 
