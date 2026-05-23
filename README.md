@@ -51,6 +51,34 @@ sales-data-analysis-forecasting/
 ├── requirements.txt
 ├── README.md
 ```
+---
+
+## How to Run the Project
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/hassan-ali786/adult-income-mlp-classification.git
+cd adult-income-mlp-classification
+
+```
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open the notebook:
+
+```bash
+jupyter notebook notebooks/Adult_Income_Classification.ipynb
+```
+
+4. Run all cells to reproduce data preprocessing, model training, and evaluation results.
+
+---
+
 
 ---
 
