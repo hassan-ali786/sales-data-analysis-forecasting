@@ -73,7 +73,8 @@ pip install -r requirements.txt
 3. Open the notebook:
 
 ```bash
-jupyter notebook notebooks/Adult_Income_Classification.ipynb
+jupyter notebook notebooks/sales-data-analysis-forecasting
+
 ```
 
 4. Run all cells to reproduce data preprocessing, model training, and evaluation results.
