@@ -59,7 +59,8 @@ sales-data-analysis-forecasting/
 
 ```bash
 git clone https://github.com/hassan-ali786/sales-data-analysis-forecasting.git
-cd adult-income-mlp-classification
+cd sales-data-analysis-forecasting
+
 
 ```
 
