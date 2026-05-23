@@ -58,7 +58,7 @@ sales-data-analysis-forecasting/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/hassan-ali786/adult-income-mlp-classification.git
+git clone https://github.com/hassan-ali786/sales-data-analysis-forecasting.git
 cd adult-income-mlp-classification
 
 ```
