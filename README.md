@@ -5,6 +5,12 @@ The project implements regression and time series techniques to forecast future 
 
 ---
 
+## Video Demo
+
+<video src="https://github.com/user-attachments/assets/32b07661-205a-4b06-a8c6-82227316306c" width="100%" controls></video>
+
+---
+
 ## Project Overview
 
 This project focuses on exploring and forecasting retail sales:
