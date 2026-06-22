@@ -131,7 +131,7 @@ The evaluation ensures that the regression model reliably forecasts future sales
 Hassan Ali  
 Data Scientist & Machine Learning Engineer  
 
-GitHub: https://github.com/hassan-ali786  
+
 
 ---
 
