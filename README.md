@@ -132,7 +132,3 @@ Hassan Ali
 Data Scientist & ML Engineer  
 
 ---
-
-## Notes
-
-⭐ Feel free to fork this repository and explore further improvements!
